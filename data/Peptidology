@@ -1,0 +1,1996 @@
+
+PMID- 35789297
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220706
+LR  - 20220706
+IS  - 0948-5023 (Electronic)
+IS  - 0948-5023 (Linking)
+VI  - 28
+IP  - 8
+DP  - 2022 Jul 5
+TI  - An insight into reactivity and bioactivity properties of quorum sensing peptides 
+      against PDE10A: a computational peptidology approach.
+PG  - 209
+LID - 10.1007/s00894-022-05176-x [doi]
+AB  - Peptides are currently the most promising lead molecules. Quorum sensing peptides
+      have a variety of structural features and are regularly exposed to
+      post-translational modifications. Antiparkinsonian drugs lose their efficacy
+      after a long period of use, and patients develop motor problems such as
+      drug-induced dyskinesia (DIDs). The interaction between PDE10A and cAMP is
+      necessary for dopamine neurotransmission and may play a role in Parkinson's
+      disease pathogenesis. cAMP and cGMP are cyclic nucleotides that act as secondary 
+      messengers in the signal transduction pathway, influencing a range of CNS
+      activities. PDE enzymes hydrolyze phosphodiester bonds to break down cAMP and
+      cGMP, allowing them to control intracellular levels of these second messengers
+      effectively. PDE expression, and hence cyclic nucleotide levels and their
+      downstream targets, may change with age and in numerous age-related illnesses,
+      including Parkinson's disease, according to mounting evidence. At the peak of
+      dyskinesias, cyclic nucleotide levels were lower, and using phosphodiesterase
+      inhibitors before antiparkinsonian medicines reduced the severity of dyskinesias.
+      In a recent study, PapRIV was found to have the ability to activate BV-2
+      microglia cells, indicating that this quorum sensing peptide may play a role in
+      gut-brain contact. As a result of the current in silico work, mainly focused on
+      QSPs as a lead molecule for inhibiting PDE10A, the SRNAT QSP sequence has been a 
+      potent molecule in molecular docking and molecular dynamics simulations.
+      Furthermore, we can test the efficiency of therapeutic components in vitro and in
+      vivo utilizing this computational approach against PDE10A.
+CI  - (c) 2022. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany,
+      part of Springer Nature.
+FAU - Shreevatsa, Bhargav
+AU  - Shreevatsa B
+AD  - Department of Biotechnology and Bioinformatics, School of Life Sciences, JSS
+      Academy of Higher Education and Research, Mysuru, 570015, Karnataka, India.
+FAU - Dharmashekara, Chandan
+AU  - Dharmashekara C
+AD  - Department of Biotechnology and Bioinformatics, School of Life Sciences, JSS
+      Academy of Higher Education and Research, Mysuru, 570015, Karnataka, India.
+FAU - Jain, Anisha S
+AU  - Jain AS
+AD  - Department of Microbiology, School of Life Sciences, JSS Academy of Higher
+      Education and Research, Mysuru, 570015, Karnataka, India.
+FAU - Amachawadi, Raghavendra
+AU  - Amachawadi R
+AD  - Department of Diagnostic Medicine and Pathobiology, Kansas State University,
+      Manhattan, 66506-5800, Kansas, USA.
+FAU - Achar, Raghu Ram
+AU  - Achar RR
+AD  - Division of Biochemistry, School of Life Sciences, JSS Academy of Higher
+      Education and Research, Mysuru, 570015, Karnataka, India.
+FAU - Syed, Asad
+AU  - Syed A
+AD  - Department of Botany and Microbiology, College of Science, King Saud University, 
+      Riyadh, 11451, Saudi Arabia.
+FAU - Shivamallu, Chandan
+AU  - Shivamallu C
+AD  - Department of Biotechnology and Bioinformatics, School of Life Sciences, JSS
+      Academy of Higher Education and Research, Mysuru, 570015, Karnataka, India.
+      chandans@jssuni.edu.in.
+FAU - Kollur, Shiva Prasad
+AU  - Kollur SP
+AD  - Department of Sciences, Amrita School of Arts and Sciences, Amrita Vishwa
+      Vidyapeetham, Mysuru, 570026, Karnataka, India. shivachemist@gmail.com.
+FAU - Frau, Juan
+AU  - Frau J
+AD  - Departament de Quimica, Universitat de les Illes Balears, Palma de Mallorca,
+      E-07122, Illes Balears, Spain.
+FAU - Flores-Holguin, Norma
+AU  - Flores-Holguin N
+AD  - Laboratorio Virtual NANOCOSMOS, Departamento de Medio Ambiente y Energia, Centro 
+      de Investigacion en Materiales Avanzados, Chihuahua, 31136, Chihuahua, Mexico.
+FAU - Glossman-Mitnik, Daniel
+AU  - Glossman-Mitnik D
+AUID- ORCID: http://orcid.org/0000-0002-9583-4256
+AD  - Laboratorio Virtual NANOCOSMOS, Departamento de Medio Ambiente y Energia, Centro 
+      de Investigacion en Materiales Avanzados, Chihuahua, 31136, Chihuahua, Mexico.
+      dglossman@gmail.com.
+LA  - eng
+GR  - RSP-2021/120/King Saud University
+PT  - Journal Article
+DEP - 20220705
+PL  - Germany
+TA  - J Mol Model
+JT  - Journal of molecular modeling
+JID - 9806569
+RN  - 0 (Peptides)
+RN  - EC 3.1.4.- (PDE10A protein, human)
+RN  - EC 3.1.4.- (Phosphoric Diester Hydrolases)
+RN  - H2D2X058MU (Cyclic GMP)
+SB  - IM
+MH  - Cyclic GMP/metabolism
+MH  - *Dyskinesias
+MH  - Humans
+MH  - Molecular Docking Simulation
+MH  - *Parkinson Disease
+MH  - Peptides/therapeutic use
+MH  - Phosphoric Diester Hydrolases/metabolism/therapeutic use
+MH  - Quorum Sensing
+OTO - NOTNLM
+OT  - Computational peptidology
+OT  - Conceptual DFT
+OT  - Molecular docking
+OT  - Molecular modeling
+OT  - Parkinson's disease
+OT  - Quorum sensing peptides
+EDAT- 2022/07/06 06:00
+MHDA- 2022/07/07 06:00
+CRDT- 2022/07/05 19:29
+PHST- 2022/04/05 00:00 [received]
+PHST- 2022/05/30 00:00 [accepted]
+PHST- 2022/07/05 19:29 [entrez]
+PHST- 2022/07/06 06:00 [pubmed]
+PHST- 2022/07/07 06:00 [medline]
+AID - 10.1007/s00894-022-05176-x [doi]
+AID - 10.1007/s00894-022-05176-x [pii]
+PST - epublish
+SO  - J Mol Model. 2022 Jul 5;28(8):209. doi: 10.1007/s00894-022-05176-x.
+
+PMID- 35494626
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220716
+IS  - 2296-2646 (Print)
+IS  - 2296-2646 (Linking)
+VI  - 10
+DP  - 2022
+TI  - Chemical Reactivity and Optical and Pharmacokinetics Studies of 14 Multikinase
+      Inhibitors and Their Docking Interactions Toward ACK1 for Precision Oncology.
+PG  - 843642
+LID - 10.3389/fchem.2022.843642 [doi]
+AB  - Activated Cdc42-associated kinase 1 (ACK1/TNK2) has a significant role in cell
+      endocytosis, survival, proliferation, and migration. Mutations in ACK1 are
+      closely associated with the occurrence and development of cancers. In this work, 
+      a conceptual density functional theory (CDFT)-based computational peptidology
+      (CDFT-CP) method is used to study the chemical reactivity of 14 multikinase
+      inhibitors. Optical properties of these inhibitors are studied by time-dependent 
+      density functional theory (TDDFT). Various biological and pharmacokinetic
+      parameters are studied by Osiris, Molinspiration, and BOILED-Egg in SwissADME
+      software tools. Physicochemical and biopharmaceutical (PCB), Salmonella
+      typhimurium reverse mutation assay (AMES) mutagenicity, toxicity, and risk
+      prediction are estimated by Simulations plus ADMET Predictor 10.2 software. MD
+      simulations for an active model of ACK1 is carried out by the CABS-flex 2.0 web
+      server, and potential binding pockets for ACK1 are searched using the PrankWeb
+      server. SwissTargetPrediction is used to predict the potential targets for the
+      multikinase inhibitors. Docking studies are carried out for ACK1-multikinase
+      inhibitors using Autodock 4.2 software. Noncovalent interactions for
+      ACK1-multikinase inhibitor complexes are studied using the Protein-Ligand
+      Interaction Profiler (PLIP) server. Results indicated higher binding affinities
+      and strong noncovalent interactions in ACK1-multikinase inhibitor complexes.
+CI  - Copyright (c) 2022 Srivastava.
+FAU - Srivastava, Ruby
+AU  - Srivastava R
+AD  - CSIR-Centre for Cellular and Molecular Biology, Hyderabad, India.
+LA  - eng
+PT  - Journal Article
+DEP - 20220414
+PL  - Switzerland
+TA  - Front Chem
+JT  - Frontiers in chemistry
+JID - 101627988
+PMC - PMC9050413
+OTO - NOTNLM
+OT  - ACK1
+OT  - cancers
+OT  - docking
+OT  - drug likeliness
+OT  - inhibitors
+COIS- The author declares that the research was conducted in the absence of any
+      commercial or financial relationships that could be construed as a potential
+      conflict of interest.
+EDAT- 2022/05/03 06:00
+MHDA- 2022/05/03 06:01
+CRDT- 2022/05/02 06:33
+PHST- 2021/12/26 00:00 [received]
+PHST- 2022/03/16 00:00 [accepted]
+PHST- 2022/05/02 06:33 [entrez]
+PHST- 2022/05/03 06:00 [pubmed]
+PHST- 2022/05/03 06:01 [medline]
+AID - 10.3389/fchem.2022.843642 [doi]
+AID - 843642 [pii]
+PST - epublish
+SO  - Front Chem. 2022 Apr 14;10:843642. doi: 10.3389/fchem.2022.843642. eCollection
+      2022.
+
+PMID- 35352094
+OWN - NLM
+STAT- MEDLINE
+LR  - 20220610
+IS  - 1477-4054 (Electronic)
+IS  - 1467-5463 (Linking)
+VI  - 23
+IP  - 3
+DP  - 2022 May 13
+TI  - Integrated unsupervised-supervised modeling and prediction of protein-peptide
+      affinities at structural level.
+LID - bbac097 [pii]
+LID - 10.1093/bib/bbac097 [doi]
+AB  - Cell signal networks are orchestrated directly or indirectly by various
+      peptide-mediated protein-protein interactions, which are normally weak and
+      transient and thus ideal for biological regulation and medicinal intervention.
+      Here, we develop a general-purpose method for modeling and predicting the binding
+      affinities of protein-peptide interactions (PpIs) at the structural level. The
+      method is a hybrid strategy that employs an unsupervised approach to derive a
+      layered PpI atom-residue interaction (ulPpI[a-r]) potential between different
+      protein atom types and peptide residue types from thousands of solved PpI complex
+      structures and then statistically correlates the potential descriptors with
+      experimental affinities (KD values) over hundreds of known PpI samples in a
+      supervised manner to create an integrated unsupervised-supervised PpI affinity
+      (usPpIA) predictor. Although both the ulPpI[a-r] potential and usPpIA predictor
+      can be used to calculate PpI affinities from their complex structures, the latter
+      seems to perform much better than the former, suggesting that the unsupervised
+      potential can be improved substantially with a further correction by supervised
+      statistical learning. We examine the robustness and fault-tolerance of usPpIA
+      predictor when applied to treat the coarse-grained PpI complex structures modeled
+      computationally by sophisticated peptide docking and dynamics simulation. It is
+      revealed that, despite developed solely based on solved structures, the
+      integrated unsupervised-supervised method is also applicable for locally docked
+      structures to reach a quantitative prediction but can only give a qualitative
+      prediction on globally docked structures. The dynamics refinement seems not to
+      change (or improve) the predictive results essentially, although it is
+      computationally expensive and time-consuming relative to peptide docking. We also
+      perform extrapolation of usPpIA predictor to the indirect affinity quantities of 
+      HLA-A*0201 binding epitope peptides and NHERF PDZ binding scaffold peptides,
+      consequently resulting in a good and moderate correlation of the predicted KD
+      with experimental IC50 and BLU on the two peptide sets, with Pearson's
+      correlation coefficients Rp = 0.635 and 0.406, respectively.
+CI  - (c) The Author(s) 2022. Published by Oxford University Press. All rights
+      reserved. For Permissions, please email: journals.permissions@oup.com.
+FAU - Zhou, Peng
+AU  - Zhou P
+AUID- ORCID: 0000-0001-5681-9937
+AD  - Center for Informational Biology, School of Life Science and Technology,
+      University of Electronic Science and Technology of China (UESTC), Chengdu 611731,
+      China.
+FAU - Wen, Li
+AU  - Wen L
+AD  - Center for Informational Biology, School of Life Science and Technology,
+      University of Electronic Science and Technology of China (UESTC), Chengdu 611731,
+      China.
+FAU - Lin, Jing
+AU  - Lin J
+AD  - Center for Informational Biology, School of Life Science and Technology,
+      University of Electronic Science and Technology of China (UESTC), Chengdu 611731,
+      China.
+FAU - Mei, Li
+AU  - Mei L
+AUID- ORCID: 0000-0002-3617-653X
+AD  - Institute of Culinary, Sichuan Tourism University, Chengdu 610100, China.
+FAU - Liu, Qian
+AU  - Liu Q
+AD  - Center for Informational Biology, School of Life Science and Technology,
+      University of Electronic Science and Technology of China (UESTC), Chengdu 611731,
+      China.
+FAU - Shang, Shuyong
+AU  - Shang S
+AD  - of Ecological Environment Protection, Chengdu Normal University, Chengdu 611130, 
+      China.
+FAU - Li, Juelin
+AU  - Li J
+AD  - Center for Informational Biology, School of Life Science and Technology,
+      University of Electronic Science and Technology of China (UESTC), Chengdu 611731,
+      China.
+FAU - Shu, Jianping
+AU  - Shu J
+AD  - Center for Informational Biology, School of Life Science and Technology,
+      University of Electronic Science and Technology of China (UESTC), Chengdu 611731,
+      China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - Brief Bioinform
+JT  - Briefings in bioinformatics
+JID - 100912837
+RN  - 0 (Peptides)
+RN  - 0 (Proteins)
+SB  - IM
+MH  - *Peptides/chemistry
+MH  - Protein Binding
+MH  - *Proteins/chemistry
+OTO - NOTNLM
+OT  - *binding affinity
+OT  - *computational peptidology
+OT  - *knowledge-based potential
+OT  - *protein-peptide interaction
+OT  - *statistical learning regression
+OT  - *supervised
+OT  - *unsupervised
+EDAT- 2022/03/31 06:00
+MHDA- 2022/05/24 06:00
+CRDT- 2022/03/30 05:43
+PHST- 2022/01/04 00:00 [received]
+PHST- 2022/02/15 00:00 [revised]
+PHST- 2022/02/23 00:00 [accepted]
+PHST- 2022/03/31 06:00 [pubmed]
+PHST- 2022/05/24 06:00 [medline]
+PHST- 2022/03/30 05:43 [entrez]
+AID - 6555404 [pii]
+AID - 10.1093/bib/bbac097 [doi]
+PST - ppublish
+SO  - Brief Bioinform. 2022 May 13;23(3). pii: 6555404. doi: 10.1093/bib/bbac097.
+
+PMID- 35200627
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220317
+LR  - 20220317
+IS  - 1660-3397 (Electronic)
+IS  - 1660-3397 (Linking)
+VI  - 20
+IP  - 2
+DP  - 2022 Jan 24
+TI  - Conceptual DFT-Based Computational Peptidology, Pharmacokinetics Study and ADMET 
+      Report of the Veraguamides A-G Family of Marine Natural Drugs.
+LID - 97 [pii]
+LID - 10.3390/md20020097 [doi]
+AB  - As a continuation of our research on the chemical reactivity, pharmacokinetics
+      and ADMET properties of cyclopeptides of marine origin with potential therapeutic
+      abilities, in this work our already presented integrated molecular modeling
+      protocol has been used for the study of the chemical reactivity and bioactivity
+      properties of the Veraguamides A-G family of marine natural drugs. This protocol 
+      results from the estimation of the conceptual density functional theory (CDFT)
+      chemical reactivity descriptors together with several chemoinformatics tools
+      commonly considered within the process of development of new therapeutic drugs.
+      CP-CDFT is a branch of computational chemistry and molecular modeling dedicated
+      to the study of peptides, and it is a protocol that allows the estimation with
+      great accuracy of the CDFT-based reactivity descriptors and the associated
+      physical and chemical properties, which can aid in determining the ability of the
+      studied peptides to behave as potential useful drugs. Moreover, the superiority
+      of the MN12SX density functional over other long-range corrected density
+      functionals for the prediction of chemical and physical properties in the
+      presence of water as the solvent is clearly demonstrated. The research was
+      supplemented with an investigation of the bioactivity of the molecular systems
+      and their ADMET (absorption, distribution, metabolism, excretion, and toxicity)
+      parameters, as is customary in medicinal chemistry. Some instances of the
+      CDFT-based chemical reactivity descriptors' capacity to predict the pKas of
+      peptides as well as their potential as AGE inhibitors are also shown.
+FAU - Flores-Holguin, Norma
+AU  - Flores-Holguin N
+AUID- ORCID: 0000-0002-4836-233X
+AD  - Laboratorio Virtual NANOCOSMOS, Departamento de Medio Ambiente y Energia, Centro 
+      de Investigacion en Materiales Avanzados, Chihuahua 31136, Mexico.
+FAU - Ortega-Castro, Joaquin
+AU  - Ortega-Castro J
+AUID- ORCID: 0000-0001-8131-0315
+AD  - Departament de Quimica, Facultat de Ciences, Universitat de les Illes Balears,
+      E-07122 Palma de Mallorca, Spain.
+FAU - Frau, Juan
+AU  - Frau J
+AUID- ORCID: 0000-0003-2562-9975
+AD  - Departament de Quimica, Facultat de Ciences, Universitat de les Illes Balears,
+      E-07122 Palma de Mallorca, Spain.
+FAU - Glossman-Mitnik, Daniel
+AU  - Glossman-Mitnik D
+AUID- ORCID: 0000-0002-9583-4256
+AD  - Laboratorio Virtual NANOCOSMOS, Departamento de Medio Ambiente y Energia, Centro 
+      de Investigacion en Materiales Avanzados, Chihuahua 31136, Mexico.
+LA  - eng
+PT  - Journal Article
+DEP - 20220124
+PL  - Switzerland
+TA  - Mar Drugs
+JT  - Marine drugs
+JID - 101213729
+RN  - 0 (Biological Products)
+RN  - 0 (Depsipeptides)
+RN  - 0 (veraguamide A)
+SB  - IM
+MH  - Aquatic Organisms/*metabolism
+MH  - Biological Products/chemistry/*pharmacokinetics/toxicity
+MH  - Cheminformatics
+MH  - Density Functional Theory
+MH  - Depsipeptides/chemistry/*pharmacokinetics/toxicity
+MH  - Models, Molecular
+PMC - PMC8874632
+OTO - NOTNLM
+OT  - ADMET
+OT  - KID (Koopmans In DFT)
+OT  - Veraguamides A-G
+OT  - computational peptidology
+OT  - computational pharmacokinetics
+OT  - conceptual DFT
+EDAT- 2022/02/25 06:00
+MHDA- 2022/03/18 06:00
+CRDT- 2022/02/24 12:20
+PHST- 2021/12/14 00:00 [received]
+PHST- 2022/01/15 00:00 [revised]
+PHST- 2022/01/19 00:00 [accepted]
+PHST- 2022/02/24 12:20 [entrez]
+PHST- 2022/02/25 06:00 [pubmed]
+PHST- 2022/03/18 06:00 [medline]
+AID - md20020097 [pii]
+AID - 10.3390/md20020097 [doi]
+PST - epublish
+SO  - Mar Drugs. 2022 Jan 24;20(2). pii: md20020097. doi: 10.3390/md20020097.
+
+PMID- 35096016
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220201
+IS  - 1664-8021 (Print)
+IS  - 1664-8021 (Linking)
+VI  - 12
+DP  - 2021
+TI  - Systematic Modeling, Prediction, and Comparison of Domain-Peptide Affinities:
+      Does it Work Effectively With the Peptide QSAR Methodology?
+PG  - 800857
+LID - 10.3389/fgene.2021.800857 [doi]
+AB  - The protein-protein association in cellular signaling networks (CSNs) often acts 
+      as weak, transient, and reversible domain-peptide interaction (DPI), in which a
+      flexible peptide segment on the surface of one protein is recognized and bound by
+      a rigid peptide-recognition domain from another. Reliable modeling and accurate
+      prediction of DPI binding affinities would help to ascertain the diverse
+      biological events involved in CSNs and benefit our understanding of various
+      biological implications underlying DPIs. Traditionally, peptide quantitative
+      structure-activity relationship (pQSAR) has been widely used to model and predict
+      the biological activity of oligopeptides, which employs amino acid descriptors
+      (AADs) to characterize peptide structures at sequence level and then
+      statistically correlate the resulting descriptor vector with observed activity
+      data via regression. However, the QSAR has not yet been widely applied to treat
+      the direct binding behavior of large-scale peptide ligands to their protein
+      receptors. In this work, we attempted to clarify whether the pQSAR methodology
+      can work effectively for modeling and predicting DPI affinities in a
+      high-throughput manner? Over twenty thousand short linear motif (SLiM)-containing
+      peptide segments involved in SH3, PDZ and 14-3-3 domain-medicated CSNs were
+      compiled to define a comprehensive sequence-based data set of DPI affinities,
+      which were represented by the Boehringer light units (BLUs) derived from previous
+      arbitrary light intensity assays following SPOT peptide synthesis. Four
+      sophisticated MLMs (MLMs) were then utilized to perform pQSAR modeling on the set
+      described with different AADs to systematically create a variety of linear and
+      nonlinear predictors, and then verified by rigorous statistical test. It is
+      revealed that the genome-wide DPI events can only be modeled qualitatively or
+      semiquantitatively with traditional pQSAR strategy due to the intrinsic disorder 
+      of peptide conformation and the potential interplay between different peptide
+      residues. In addition, the arbitrary BLUs used to characterize DPI affinity
+      values were measured via an indirect approach, which may not very reliable and
+      may involve strong noise, thus leading to a considerable bias in the modeling.
+      The R prd (2) = 0.7 can be considered as the upper limit of external
+      generalization ability of the pQSAR methodology working on large-scale DPI
+      affinity data.
+CI  - Copyright (c) 2022 Liu, Lin, Wen, Wang, Zhou, Mei and Shang.
+FAU - Liu, Qian
+AU  - Liu Q
+AD  - Center for Informational Biology, School of Life Science and Technology,
+      University of Electronic Science and Technology of China (UESTC), Chengdu, China.
+FAU - Lin, Jing
+AU  - Lin J
+AD  - Center for Informational Biology, School of Life Science and Technology,
+      University of Electronic Science and Technology of China (UESTC), Chengdu, China.
+FAU - Wen, Li
+AU  - Wen L
+AD  - Center for Informational Biology, School of Life Science and Technology,
+      University of Electronic Science and Technology of China (UESTC), Chengdu, China.
+FAU - Wang, Shaozhou
+AU  - Wang S
+AD  - Center for Informational Biology, School of Life Science and Technology,
+      University of Electronic Science and Technology of China (UESTC), Chengdu, China.
+FAU - Zhou, Peng
+AU  - Zhou P
+AD  - Center for Informational Biology, School of Life Science and Technology,
+      University of Electronic Science and Technology of China (UESTC), Chengdu, China.
+FAU - Mei, Li
+AU  - Mei L
+AD  - Institute of Culinary, Sichuan Tourism University, Chengdu, China.
+FAU - Shang, Shuyong
+AU  - Shang S
+AD  - Institute of Ecological Environment Protection, Chengdu Normal University,
+      Chengdu, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20220114
+PL  - Switzerland
+TA  - Front Genet
+JT  - Frontiers in genetics
+JID - 101560621
+PMC - PMC8795790
+OTO - NOTNLM
+OT  - amino acid descriptor
+OT  - computational peptidology
+OT  - domain-peptide interaction
+OT  - machine learning
+OT  - peptide quantitative structure-activity relationship
+OT  - statistical modeling
+COIS- The authors declare that the research was conducted in the absence of any
+      commercial or financial relationships that could be construed as a potential
+      conflict of interest.
+EDAT- 2022/02/01 06:00
+MHDA- 2022/02/01 06:01
+CRDT- 2022/01/31 05:57
+PHST- 2021/10/24 00:00 [received]
+PHST- 2021/12/14 00:00 [accepted]
+PHST- 2022/01/31 05:57 [entrez]
+PHST- 2022/02/01 06:00 [pubmed]
+PHST- 2022/02/01 06:01 [medline]
+AID - 10.3389/fgene.2021.800857 [doi]
+AID - 800857 [pii]
+PST - epublish
+SO  - Front Genet. 2022 Jan 14;12:800857. doi: 10.3389/fgene.2021.800857. eCollection
+      2021.
+
+PMID- 35017576
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220228
+LR  - 20220419
+IS  - 2045-2322 (Electronic)
+IS  - 2045-2322 (Linking)
+VI  - 12
+IP  - 1
+DP  - 2022 Jan 11
+TI  - Computational peptidology approach to the study of the chemical reactivity and
+      bioactivity properties of Aspergillipeptide D, a cyclopentapeptide of marine
+      origin.
+PG  - 506
+LID - 10.1038/s41598-021-04513-z [doi]
+AB  - Aspergillipeptide D is a cyclic pentapeptide isolated from the marine gorgonian
+      Melitodes squamata-derived fungus Aspergillus sp. SCSIO 41501 that it has been
+      shown to present moderate activity against herpes virus simplex type 1 (HSV-1).
+      Thus, this paper presents the results of a computational study of this
+      cyclopentapeptide's chemical reactivity and bioactivity properties using a
+      CDFT-based computational peptidology (CDFT-CP) methodology, which is derived from
+      combining chemical reactivity descriptors derived from Conceptual Density
+      Functional Theory (CDFT) and some Cheminformatics tools which may be used. This
+      results in an improvement of the virtual screening procedure by a similarity
+      search allowing the identification and validation of the known ability of the
+      peptide to act as a possible useful drug. This was followed by an examination of 
+      the drug's bioactivity and pharmacokinetics indices in relation to the ADMET
+      (Absorption, Distribution, Metabolism, Excretion, and Toxicity) characteristics. 
+      The findings provide further evidence of the MN12SX density functional's
+      superiority in proving the Janak and Ionization Energy theorems using the
+      proposed KID approach. This has proven to be beneficial in accurately predicting 
+      CDFT reactivity characteristics, which aid in the understanding of chemical
+      reactivity. The Computational Pharmacokinetics study revealed the potential
+      ability of Aspergillipeptide D as a therapeutic drug through the interaction with
+      different target receptors. The ADMET indices confirm this assertion through the 
+      absence of toxicity and good absorption and distribution properties.
+CI  - (c) 2022. The Author(s).
+FAU - Flores-Holguin, Norma
+AU  - Flores-Holguin N
+AD  - Laboratorio Virtual NANOCOSMOS, Departamento de Medio Ambiente y Energia, Centro 
+      de Investigacion en Materiales Avanzados, 31136, Chihuahua, CHIH, Mexico.
+FAU - Frau, Juan
+AU  - Frau J
+AD  - Departament de Quimica, Universitat de les Illes Balears, Palma de Mallorca,
+      07122, Spain.
+FAU - Glossman-Mitnik, Daniel
+AU  - Glossman-Mitnik D
+AD  - Laboratorio Virtual NANOCOSMOS, Departamento de Medio Ambiente y Energia, Centro 
+      de Investigacion en Materiales Avanzados, 31136, Chihuahua, CHIH, Mexico.
+      daniel.glossman@cimav.edu.mx.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20220111
+PL  - England
+TA  - Sci Rep
+JT  - Scientific reports
+JID - 101563288
+RN  - 0 (Peptides, Cyclic)
+SB  - IM
+MH  - Animals
+MH  - Anthozoa/*microbiology
+MH  - Aspergillus/chemistry/isolation & purification/*metabolism
+MH  - Caco-2 Cells
+MH  - Cheminformatics
+MH  - Density Functional Theory
+MH  - Humans
+MH  - Molecular Structure
+MH  - Peptides, Cyclic/adverse effects/*chemistry/metabolism/*pharmacology
+PMC - PMC8752680
+EDAT- 2022/01/13 06:00
+MHDA- 2022/03/01 06:00
+CRDT- 2022/01/12 06:21
+PHST- 2021/09/15 00:00 [received]
+PHST- 2021/12/24 00:00 [accepted]
+PHST- 2022/01/12 06:21 [entrez]
+PHST- 2022/01/13 06:00 [pubmed]
+PHST- 2022/03/01 06:00 [medline]
+AID - 10.1038/s41598-021-04513-z [doi]
+AID - 10.1038/s41598-021-04513-z [pii]
+PST - epublish
+SO  - Sci Rep. 2022 Jan 11;12(1):506. doi: 10.1038/s41598-021-04513-z.
+
+PMID- 34806828
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220113
+LR  - 20220113
+IS  - 2191-1363 (Electronic)
+IS  - 2191-1363 (Linking)
+VI  - 10
+IP  - 11
+DP  - 2021 Nov
+TI  - Computational Pharmacokinetics Report, ADMET Study and Conceptual DFT-Based
+      Estimation of the Chemical Reactivity Properties of Marine Cyclopeptides.
+PG  - 1142-1149
+LID - 10.1002/open.202100178 [doi]
+AB  - Homophymines A-E and A1-E1 are bioactive natural cyclodepsipeptides with a
+      complex molecular architecture. These molecules could have a potential use as
+      antimicrobial, antiviral, and anticancer substances. We have carried out a
+      computational study of the properties of this family of marine peptides using a
+      CDFT-based Computational Peptidology (CDFT-CP) methodology that results from the 
+      combination of the chemical reactivity descriptors that arise from conceptual
+      Density Functional Theory (CDFT) together with cheminformatics tools. The latter 
+      can be used to estimate the associated physicochemical parameters and to improve 
+      the process of virtual screening through a similarity search. Using this
+      approach, the ability of the peptides to behave as a potentially useful drugs can
+      be investigated. An analysis of their bioactivity and pharmacokinetics indices
+      related to the ADMET (Absorption, Distribution, Metabolism, Excretion and
+      Toxicity) features has also been carried out.
+CI  - (c) 2021 The Authors. Published by Wiley-VCH GmbH.
+FAU - Flores-Holguin, Norma
+AU  - Flores-Holguin N
+AUID- ORCID: 0000-0002-4836-233X
+AD  - Laboratorio Virtual NANOCOSMOS, Departamento de Medio Ambiente y Energia, Centro 
+      de Investigacion en Materiales Avanzados, Miguel de Cervantes 120, Complejo
+      Industrial Chihuahua, 31136, Chihuahua, Chih, Mexico.
+FAU - Frau, Juan
+AU  - Frau J
+AUID- ORCID: 0000-0003-2562-9975
+AD  - Departament de Quimica, Facultat de Ciences, Universitat de les Illes Balears,
+      07122, Pama de Mallorca, Spain.
+FAU - Glossman-Mitnik, Daniel
+AU  - Glossman-Mitnik D
+AUID- ORCID: 0000-0002-9583-4256
+AD  - Laboratorio Virtual NANOCOSMOS, Departamento de Medio Ambiente y Energia, Centro 
+      de Investigacion en Materiales Avanzados, Miguel de Cervantes 120, Complejo
+      Industrial Chihuahua, 31136, Chihuahua, Chih, Mexico.
+LA  - eng
+GR  - CIMAV
+GR  - CONACYT
+PT  - Journal Article
+PL  - Germany
+TA  - ChemistryOpen
+JT  - ChemistryOpen
+JID - 101594811
+RN  - 0 (Depsipeptides)
+RN  - 0 (Peptides, Cyclic)
+SB  - IM
+MH  - Chemical Phenomena
+MH  - Cheminformatics
+MH  - Density Functional Theory
+MH  - *Depsipeptides
+MH  - *Peptides, Cyclic
+PMC - PMC8607802
+OTO - NOTNLM
+OT  - *cheminformatics
+OT  - *conceptual DFT
+OT  - *homophymines
+OT  - *marine cyclopeptides
+OT  - *pharmacokinetics
+EDAT- 2021/11/23 06:00
+MHDA- 2022/01/14 06:00
+CRDT- 2021/11/22 08:59
+PHST- 2021/10/04 00:00 [revised]
+PHST- 2021/07/20 00:00 [received]
+PHST- 2021/11/22 08:59 [entrez]
+PHST- 2021/11/23 06:00 [pubmed]
+PHST- 2022/01/14 06:00 [medline]
+AID - 10.1002/open.202100178 [doi]
+PST - ppublish
+SO  - ChemistryOpen. 2021 Nov;10(11):1142-1149. doi: 10.1002/open.202100178.
+
+PMID- 34623510
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220225
+LR  - 20220225
+IS  - 0948-5023 (Electronic)
+IS  - 0948-5023 (Linking)
+VI  - 27
+IP  - 11
+DP  - 2021 Oct 8
+TI  - An integrated molecular modeling protocol for drug screening based on conceptual 
+      density functional theory and chemoinformatics for the study of marine
+      cyclopeptides.
+PG  - 314
+LID - 10.1007/s00894-021-04901-2 [doi]
+AB  - An integrated molecular modeling protocol resulting from the combination of
+      conceptual density functional theory (CDFT) chemical reactivity descriptors with 
+      several chemoinformatics tools has been used for the study of the chemical
+      reactivity and bioactivity properties of a group of marine cyclic peptides.
+      CP-CDFT is a branch of computational chemistry and molecular modeling dedicated
+      to the study of peptides. The protocol allowed the estimation of the CDFT-based
+      reactivity indices together with the associated physicochemical parameters that
+      can help to identify the ability of the studied peptides to behave as potential
+      useful drugs. This was complemented with an analysis of the bioactivity and
+      pharmacokinetics parameters related to the ADMET (absorption, distribution,
+      metabolism, excretion, and toxicity) features. Some examples related to the
+      ability of the CDFT-based chemical reactivity descriptors for the prediction of
+      the pKas of the peptides as well as their potential as AGE inhibitors are also
+      presented.
+CI  - (c) 2021. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany,
+      part of Springer Nature.
+FAU - Flores-Holguin, Norma
+AU  - Flores-Holguin N
+AD  - Laboratorio Virtual NANOCOSMOS, Departamento de Medio Ambiente y Energia, Centro 
+      de Investigacion en Materiales Avanzados, Chihuahua, Mexico.
+FAU - Frau, Juan
+AU  - Frau J
+AD  - Departament de Quimica, Universitat de les Illes Balears, Palma de Mallorca,
+      Spain.
+FAU - Glossman-Mitnik, Daniel
+AU  - Glossman-Mitnik D
+AUID- ORCID: http://orcid.org/0000-0002-9583-4256
+AD  - Laboratorio Virtual NANOCOSMOS, Departamento de Medio Ambiente y Energia, Centro 
+      de Investigacion en Materiales Avanzados, Chihuahua, Mexico.
+      daniel.glossman@cimav.edu.mx.
+LA  - eng
+PT  - Journal Article
+DEP - 20211008
+PL  - Germany
+TA  - J Mol Model
+JT  - Journal of molecular modeling
+JID - 9806569
+RN  - 0 (Peptides, Cyclic)
+SB  - IM
+MH  - Aquatic Organisms/*chemistry/isolation & purification
+MH  - Cheminformatics/*methods
+MH  - Density Functional Theory
+MH  - *Drug Evaluation, Preclinical
+MH  - Models, Molecular
+MH  - Molecular Structure
+MH  - Peptides, Cyclic/*chemistry/isolation & purification
+OTO - NOTNLM
+OT  - ADMET
+OT  - Computational peptidology
+OT  - Computational pharmacokinetics
+OT  - Conceptual DFT
+OT  - KID (Koopmans In DFT)
+OT  - Neamphamides A-D
+EDAT- 2021/10/09 06:00
+MHDA- 2022/02/26 06:00
+CRDT- 2021/10/08 12:24
+PHST- 2021/07/28 00:00 [received]
+PHST- 2021/09/01 00:00 [accepted]
+PHST- 2021/10/08 12:24 [entrez]
+PHST- 2021/10/09 06:00 [pubmed]
+PHST- 2022/02/26 06:00 [medline]
+AID - 10.1007/s00894-021-04901-2 [doi]
+AID - 10.1007/s00894-021-04901-2 [pii]
+PST - epublish
+SO  - J Mol Model. 2021 Oct 8;27(11):314. doi: 10.1007/s00894-021-04901-2.
+
+PMID- 34458236
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20210831
+IS  - 2296-2646 (Print)
+IS  - 2296-2646 (Linking)
+VI  - 9
+DP  - 2021
+TI  - In Silico Pharmacokinetics, ADMET Study and Conceptual DFT Analysis of Two Plant 
+      Cyclopeptides Isolated From Rosaceae as a Computational Peptidology Approach.
+PG  - 708364
+LID - 10.3389/fchem.2021.708364 [doi]
+AB  - This research presents the outcomes of a computational determination of the
+      chemical reactivity and bioactivity properties of two plant cyclopeptides
+      isolated from Rosaceae through the consideration of Computational Peptidology
+      (CP), a protocol employed previously in the research of similar molecular
+      systems. CP allows the prediction of the global and local descriptors that are
+      the integral foundations of Conceptual Density Functional Theory (CDFT) and which
+      could help in getting in the understanding of the chemical reactivity properties 
+      of the two plant cyclopeptides under study, hoping that they could be related to 
+      their bioactivity. The methodology based on the Koopmans in DFT (KID) approach
+      and the MN12SX/Def2TZVP/H2O model chemistry has been successfully validated.
+      Various Chemoinformatics tools have been used to improve the process of virtual
+      screening, thus identifying some additional properties of these two plant
+      cyclopeptides connected to their ability to behave as potentially useful drugs.
+      With the further objective of analyzing their bioactivity, the CP protocol is
+      complemented with the estimation of some useful parameters related to
+      pharmacokinetics, their predicted biological targets, and the Absorption,
+      Distribution, Metabolism, Excretion and Toxicity (ADMET) parameters related to
+      the bioavailability of the two plant cyclopeptides under study are also reported.
+CI  - Copyright (c) 2021 Flores-Holguin, Frau and Glossman-Mitnik.
+FAU - Flores-Holguin, Norma
+AU  - Flores-Holguin N
+AD  - Laboratorio Virtual NANOCOSMOS, Departamento de Medio Ambiente y Energia, Centro 
+      de Investigacion en Materiales Avanzados, Chihuahua, Mexico.
+FAU - Frau, Juan
+AU  - Frau J
+AD  - Departament de Quimica, Universitat de les Illes Balears, Palma de Mallorca,
+      Spain.
+FAU - Glossman-Mitnik, Daniel
+AU  - Glossman-Mitnik D
+AD  - Laboratorio Virtual NANOCOSMOS, Departamento de Medio Ambiente y Energia, Centro 
+      de Investigacion en Materiales Avanzados, Chihuahua, Mexico.
+LA  - eng
+PT  - Journal Article
+DEP - 20210812
+PL  - Switzerland
+TA  - Front Chem
+JT  - Frontiers in chemistry
+JID - 101627988
+PMC - PMC8397472
+OTO - NOTNLM
+OT  - ADMET
+OT  - Koopmans in density functional theory
+OT  - conceptual density functional theory
+OT  - pharmacokinetics
+OT  - plant cyclopeptides
+COIS- The authors declare that the research was conducted in the absence of any
+      commercial or financial relationships that could be construed as a potential
+      conflict of interest.
+EDAT- 2021/08/31 06:00
+MHDA- 2021/08/31 06:01
+CRDT- 2021/08/30 06:01
+PHST- 2021/05/11 00:00 [received]
+PHST- 2021/07/08 00:00 [accepted]
+PHST- 2021/08/30 06:01 [entrez]
+PHST- 2021/08/31 06:00 [pubmed]
+PHST- 2021/08/31 06:01 [medline]
+AID - 10.3389/fchem.2021.708364 [doi]
+AID - 708364 [pii]
+PST - epublish
+SO  - Front Chem. 2021 Aug 12;9:708364. doi: 10.3389/fchem.2021.708364. eCollection
+      2021.
+
+PMID- 33710894
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210709
+LR  - 20210709
+IS  - 1549-960X (Electronic)
+IS  - 1549-9596 (Linking)
+VI  - 61
+IP  - 4
+DP  - 2021 Apr 26
+TI  - Systematic Comparison and Comprehensive Evaluation of 80 Amino Acid Descriptors
+      in Peptide QSAR Modeling.
+PG  - 1718-1731
+LID - 10.1021/acs.jcim.0c01370 [doi]
+AB  - The peptide quantitative structure-activity relationship (QSAR), also known as
+      the quantitative sequence-activity model (QSAM), has attracted much attention in 
+      the bio- and chemoinformatics communities and is a well developed computational
+      peptidology strategy to statistically correlate the sequence/structure and
+      activity/property relationships of functional peptides. Amino acid descriptors
+      (AADs) are one of the most widely used methods to characterize peptide structures
+      by decomposing the peptide into its residue building blocks and sequentially
+      parametrizing each building block with a vector of amino acid principal
+      properties. Considering that various AADs have been proposed over the past
+      decades and new AADs are still emerging today, we herein query the following: is 
+      it necessary to develop so many AADs and do we need to continuously develop more 
+      new AADs? In this study, we exhaustively collect 80 published AADs and
+      comprehensively evaluate their modeling performance (including fitting ability,
+      internal stability, and predictive power) on 8 QSAR-oriented peptide sample sets 
+      (QPSs) by employing 2 sophisticated machine learning methods (MLMs), totally
+      building and systematically comparing 1280 (80 AADs x 8 QPSs x 2 MLMs) peptide
+      QSAR models. The following is revealed: (i) None of the AADs can work best on all
+      or most peptide sets; an AAD usually performs well for some peptides but badly
+      for others. (ii) Modeling performance is primarily determined by the peptide
+      samples and then the MLMs used, while AADs have only a moderate influence on the 
+      performance. (iii) There is no essential difference between the modeling
+      performances of different AAD types (physiochemical, topological, 3D-structural, 
+      etc.). (iv) Two random descriptors, which are separately generated randomly in
+      standard normal distribution N(0, 1) and uniform distribution U(-1, +1), do not
+      perform significantly worse than these carefully developed AADs. (v) A secondary 
+      descriptor, which carries major information involved in the 80 (primary) AADs,
+      does not perform significantly better than these AADs. Overall, we conclude that 
+      since there are various AADs available to date and they already cover numerous
+      amino acid properties, further development of new AADs is not an essential choice
+      to improve peptide QSAR modeling; the traditional AAD methodology is believed to 
+      have almost reached the theoretical limit nowadays. In addition, the AADs are
+      more likely to be a vector symbol but not informative data; they are utilized to 
+      mark and distinguish the 20 amino acids but do not really bring much original
+      property information to these amino acids.
+FAU - Zhou, Peng
+AU  - Zhou P
+AUID- ORCID: 0000-0001-5681-9937
+AD  - Center for Informational Biology, University of Electronic Science and Technology
+      of China (UESTC) at Qingshuihe Campus, Chengdu 611731, China.
+AD  - School of Life Science and Technology, University of Electronic Science and
+      Technology of China (UESTC) at Shahe Campus, Chengdu 610054, China.
+FAU - Liu, Qian
+AU  - Liu Q
+AD  - Center for Informational Biology, University of Electronic Science and Technology
+      of China (UESTC) at Qingshuihe Campus, Chengdu 611731, China.
+AD  - School of Life Science and Technology, University of Electronic Science and
+      Technology of China (UESTC) at Shahe Campus, Chengdu 610054, China.
+FAU - Wu, Ting
+AU  - Wu T
+AD  - School of Life Science and Technology, University of Electronic Science and
+      Technology of China (UESTC) at Shahe Campus, Chengdu 610054, China.
+FAU - Miao, Qingqing
+AU  - Miao Q
+AD  - Center for Informational Biology, University of Electronic Science and Technology
+      of China (UESTC) at Qingshuihe Campus, Chengdu 611731, China.
+AD  - School of Life Science and Technology, University of Electronic Science and
+      Technology of China (UESTC) at Shahe Campus, Chengdu 610054, China.
+FAU - Shang, Shuyong
+AU  - Shang S
+AD  - College of Chemistry and Life Science, Chengdu Normal University, Chengdu 611130,
+      China.
+FAU - Wang, Heyi
+AU  - Wang H
+AD  - Center for Informational Biology, University of Electronic Science and Technology
+      of China (UESTC) at Qingshuihe Campus, Chengdu 611731, China.
+AD  - School of Life Science and Technology, University of Electronic Science and
+      Technology of China (UESTC) at Shahe Campus, Chengdu 610054, China.
+FAU - Chen, Zheng
+AU  - Chen Z
+AD  - Center for Informational Biology, University of Electronic Science and Technology
+      of China (UESTC) at Qingshuihe Campus, Chengdu 611731, China.
+AD  - School of Life Science and Technology, University of Electronic Science and
+      Technology of China (UESTC) at Shahe Campus, Chengdu 610054, China.
+FAU - Wang, Shaozhou
+AU  - Wang S
+AD  - School of Life Science and Technology, University of Electronic Science and
+      Technology of China (UESTC) at Shahe Campus, Chengdu 610054, China.
+FAU - Wang, Heyan
+AU  - Wang H
+AD  - School of Life Science and Technology, University of Electronic Science and
+      Technology of China (UESTC) at Shahe Campus, Chengdu 610054, China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20210312
+PL  - United States
+TA  - J Chem Inf Model
+JT  - Journal of chemical information and modeling
+JID - 101230060
+RN  - 0 (Amino Acids)
+RN  - 0 (Peptides)
+SB  - IM
+MH  - *Amino Acids
+MH  - Models, Molecular
+MH  - Peptides
+MH  - *Quantitative Structure-Activity Relationship
+EDAT- 2021/03/13 06:00
+MHDA- 2021/07/10 06:00
+CRDT- 2021/03/12 17:10
+PHST- 2021/03/13 06:00 [pubmed]
+PHST- 2021/07/10 06:00 [medline]
+PHST- 2021/03/12 17:10 [entrez]
+AID - 10.1021/acs.jcim.0c01370 [doi]
+PST - ppublish
+SO  - J Chem Inf Model. 2021 Apr 26;61(4):1718-1731. doi: 10.1021/acs.jcim.0c01370.
+      Epub 2021 Mar 12.
+
+PMID- 32962305
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210513
+LR  - 20210513
+IS  - 1660-3397 (Electronic)
+IS  - 1660-3397 (Linking)
+VI  - 18
+IP  - 9
+DP  - 2020 Sep 20
+TI  - Virtual Screening of Marine Natural Compounds by Means of Chemoinformatics and
+      CDFT-Based Computational Peptidology.
+LID - E478 [pii]
+LID - 10.3390/md18090478 [doi]
+AB  - This work presents the results of a computational study of the chemical
+      reactivity and bioactivity properties of the members of the theopapuamides A-D
+      family of marine peptides by making use of our proposed methodology named
+      Computational Peptidology (CP) that has been successfully considered in previous 
+      studies of this kind of molecular system. CP allows for the determination of the 
+      global and local descriptors that come from Conceptual Density Functional Theory 
+      (CDFT) that can give an idea about the chemical reactivity properties of the
+      marine natural products under study, which are expected to be related to their
+      bioactivity. At the same time, the validity of the procedure based on the
+      adoption of the KID (Koopmans In DFT) technique, as well as the
+      MN12SX/Def2TZVP/H2O model chemistry is successfully verified. Together with
+      several chemoinformatic tools that can be used to improve the process of virtual 
+      screening, some additional properties of these marine peptides are identified
+      related to their ability to behave as useful drugs. With the further objective of
+      analyzing their bioactivity, some useful parameters for future QSAR studies,
+      their predicted biological targets, and the ADMET (Absorption, Distribution,
+      Metabolism, Excretion and Toxicity) parameters related to the theopapuamides A-D 
+      pharmacokinetics are also reported.
+FAU - Flores-Holguin, Norma
+AU  - Flores-Holguin N
+AUID- ORCID: 0000-0002-4836-233X
+AD  - Laboratorio Virtual NANOCOSMOS, Departamento de Medio Ambiente y Energia, Centro 
+      de Investigacion en Materiales Avanzados, Chihuahua, Chih 31136, Mexico.
+FAU - Frau, Juan
+AU  - Frau J
+AUID- ORCID: 0000-0003-2562-9975
+AD  - Departament de Quimica, Universitat de les Illes Balears, E-07122 Palma de
+      Malllorca, Spain.
+FAU - Glossman-Mitnik, Daniel
+AU  - Glossman-Mitnik D
+AUID- ORCID: 0000-0002-9583-4256
+AD  - Laboratorio Virtual NANOCOSMOS, Departamento de Medio Ambiente y Energia, Centro 
+      de Investigacion en Materiales Avanzados, Chihuahua, Chih 31136, Mexico.
+LA  - eng
+PT  - Journal Article
+PT  - Validation Study
+DEP - 20200920
+PL  - Switzerland
+TA  - Mar Drugs
+JT  - Marine drugs
+JID - 101213729
+RN  - 0 (Biological Products)
+RN  - 0 (Depsipeptides)
+RN  - 0 (theopapuamide)
+SB  - IM
+MH  - Aquatic Organisms
+MH  - Biological Products/chemistry/isolation & purification/pharmacokinetics
+MH  - Cheminformatics/*methods
+MH  - Computational Biology/*methods
+MH  - Density Functional Theory
+MH  - Depsipeptides/*chemistry/isolation & purification/pharmacokinetics
+MH  - Models, Molecular
+MH  - Quantitative Structure-Activity Relationship
+PMC - PMC7551818
+OTO - NOTNLM
+OT  - ADME
+OT  - bioactivity scores
+OT  - bioavailability
+OT  - chemoinformatics
+OT  - computational peptidology
+OT  - conceptual DFT
+OT  - theopapuamides A-D
+OT  - virtual screening
+EDAT- 2020/09/24 06:00
+MHDA- 2021/05/14 06:00
+CRDT- 2020/09/23 01:03
+PHST- 2020/08/28 00:00 [received]
+PHST- 2020/09/16 00:00 [revised]
+PHST- 2020/09/17 00:00 [accepted]
+PHST- 2020/09/23 01:03 [entrez]
+PHST- 2020/09/24 06:00 [pubmed]
+PHST- 2021/05/14 06:00 [medline]
+AID - md18090478 [pii]
+AID - 10.3390/md18090478 [doi]
+PST - epublish
+SO  - Mar Drugs. 2020 Sep 20;18(9). pii: md18090478. doi: 10.3390/md18090478.
+
+PMID- 32932850
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210406
+LR  - 20210406
+IS  - 1420-3049 (Electronic)
+IS  - 1420-3049 (Linking)
+VI  - 25
+IP  - 18
+DP  - 2020 Sep 11
+TI  - Conceptual DFT-Based Computational Peptidology of Marine Natural Compounds:
+      Discodermins A-H.
+LID - E4158 [pii]
+LID - 10.3390/molecules25184158 [doi]
+AB  - A methodology based on the concepts that arise from Density Functional Theory
+      named Conceptual Density Functional Theory (CDFT) was chosen for the calculation 
+      of some global and local reactivity descriptors of the Discodermins A-H family of
+      marine peptides through the consideration of the KID (Koopmans in DFT) technique 
+      that was successfully used in previous studies of this kind of molecular systems.
+      The determination of active sites of the studied molecules for different kinds of
+      reactivities was achieved by resorting to some CDFT-based descriptors like the
+      Fukui functions as well as the Parr functions derived from Molecular Electron
+      Density Theory (MEDT). A few properties identified with their ability to behave
+      as a drug and the bioactivity of the peptides considered in this examination were
+      acquired by depending on a homology model by studying the correlation with the
+      known bioactivity of related molecules in their interaction with various
+      biological receptors. With the further object of analyzing their bioactivity,
+      some parameters of usefulness for future QSAR studies, their predicted biological
+      targets, and the ADME (Absorption, Distribution, Metabolism, and Excretion)
+      parameters related to the Discodermins A-H pharmacokinetics are also reported.
+FAU - Flores-Holguin, Norma
+AU  - Flores-Holguin N
+AUID- ORCID: 0000-0002-4836-233X
+AD  - Laboratorio Virtual NANOCOSMOS, Departamento de Medio Ambiente y Energia, Centro 
+      de Investigacion en Materiales Avanzados, Chihuahua, Chih 31136, Mexico.
+FAU - Frau, Juan
+AU  - Frau J
+AUID- ORCID: 0000-0003-2562-9975
+AD  - Departament de Quimica, Universitat de les Illes Balears, E-07122 Palma de
+      Malllorca, Spain.
+FAU - Glossman-Mitnik, Daniel
+AU  - Glossman-Mitnik D
+AUID- ORCID: 0000-0002-9583-4256
+AD  - Laboratorio Virtual NANOCOSMOS, Departamento de Medio Ambiente y Energia, Centro 
+      de Investigacion en Materiales Avanzados, Chihuahua, Chih 31136, Mexico.
+LA  - eng
+PT  - Journal Article
+DEP - 20200911
+PL  - Switzerland
+TA  - Molecules
+JT  - Molecules (Basel, Switzerland)
+JID - 100964009
+RN  - 0 (Amphibian Proteins)
+RN  - 0 (Antimicrobial Cationic Peptides)
+RN  - 0 (Cations)
+RN  - 0 (Peptides)
+RN  - 0 (Solvents)
+RN  - 94552-47-3 (discodermin A, Discodermia kiiensis)
+SB  - IM
+MH  - Amphibian Proteins/*chemistry
+MH  - Antimicrobial Cationic Peptides/*chemistry
+MH  - Catalytic Domain
+MH  - Cations
+MH  - Computational Biology
+MH  - Density Functional Theory
+MH  - Electrons
+MH  - Hydrogen-Ion Concentration
+MH  - Models, Chemical
+MH  - Molecular Dynamics Simulation
+MH  - Peptides/*chemistry
+MH  - Quantitative Structure-Activity Relationship
+MH  - Software
+MH  - Solvents/chemistry
+PMC - PMC7570683
+OTO - NOTNLM
+OT  - ADME
+OT  - Bioactivity scores
+OT  - Bioavailability
+OT  - Chemical Reactivity Theory
+OT  - Conceptual DFT
+OT  - Discodermins A-H
+OT  - Global and Local Reactivity Descriptors
+OT  - pKa
+EDAT- 2020/09/17 06:00
+MHDA- 2021/04/07 06:00
+CRDT- 2020/09/16 01:01
+PHST- 2020/08/13 00:00 [received]
+PHST- 2020/09/08 00:00 [revised]
+PHST- 2020/09/09 00:00 [accepted]
+PHST- 2020/09/16 01:01 [entrez]
+PHST- 2020/09/17 06:00 [pubmed]
+PHST- 2021/04/07 06:00 [medline]
+AID - molecules25184158 [pii]
+AID - 10.3390/molecules25184158 [doi]
+PST - epublish
+SO  - Molecules. 2020 Sep 11;25(18). pii: molecules25184158. doi:
+      10.3390/molecules25184158.
+
+PMID- 31463408
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20201001
+IS  - 2405-8440 (Print)
+IS  - 2405-8440 (Linking)
+VI  - 5
+IP  - 8
+DP  - 2019 Aug
+TI  - Chemical reactivity and bioactivity properties of the Phallotoxin family of
+      fungal peptides based on Conceptual Peptidology and DFT study.
+PG  - e02335
+LID - 10.1016/j.heliyon.2019.e02335 [doi]
+AB  - A methodology based on the concepts that arise from Density Functional Theory
+      (CDFT) was chosen for the calculation of the global and local reactivity
+      descriptors of the Phallotoxin family of fungal peptides. The determination of
+      the active sites for the molecules has been achieved by resorting some
+      descriptors within Molecular Electron Density Theory (MEDT) like the Dual
+      Descriptor and the Parr functions. Phallosacin has been found as the most
+      reactive of the peptides on the basis of the calculated Global Reactivity
+      Descriptors. The pKas of the seven studied peptides were established using a
+      proposed relationship between this property and the calculated Global Hardness.
+      The bioactivity properties of the peptides considered in this study were obtained
+      by resorting to a homology model by comparison with the bioactivity of related
+      molecules in their interaction with different receptors.
+FAU - Flores-Holguin, Norma
+AU  - Flores-Holguin N
+AD  - Laboratorio Virtual NANOCOSMOS, Departamento de Medio Ambiente y Energia, Centro 
+      de Investigacion en Materiales Avanzados, Chihuahua, Chih 31136, Mexico.
+FAU - Frau, Juan
+AU  - Frau J
+AD  - Departament de Quimica, Universitat de les Illes Balears, Palma de Mallorca
+      07122, Spain.
+FAU - Glossman-Mitnik, Daniel
+AU  - Glossman-Mitnik D
+AD  - Departament de Quimica, Universitat de les Illes Balears, Palma de Mallorca
+      07122, Spain.
+AD  - Laboratorio Virtual NANOCOSMOS, Departamento de Medio Ambiente y Energia, Centro 
+      de Investigacion en Materiales Avanzados, Chihuahua, Chih 31136, Mexico.
+LA  - eng
+PT  - Journal Article
+DEP - 20190820
+PL  - England
+TA  - Heliyon
+JT  - Heliyon
+JID - 101672560
+PMC - PMC6710531
+OTO - NOTNLM
+OT  - Bioactivity Properties
+OT  - Computational Chemistry
+OT  - Conceptual DFT
+OT  - Natural product chemistry
+OT  - Organic chemistry
+OT  - Phallotoxins
+OT  - Reactivity Descriptors
+OT  - Theoretical chemistry
+OT  - pKas
+EDAT- 2019/08/30 06:00
+MHDA- 2019/08/30 06:01
+CRDT- 2019/08/30 06:00
+PHST- 2019/07/20 00:00 [received]
+PHST- 2019/08/12 00:00 [revised]
+PHST- 2019/08/14 00:00 [accepted]
+PHST- 2019/08/30 06:00 [entrez]
+PHST- 2019/08/30 06:00 [pubmed]
+PHST- 2019/08/30 06:01 [medline]
+AID - 10.1016/j.heliyon.2019.e02335 [doi]
+AID - S2405-8440(19)35995-X [pii]
+AID - e02335 [pii]
+PST - epublish
+SO  - Heliyon. 2019 Aug 20;5(8):e02335. doi: 10.1016/j.heliyon.2019.e02335. eCollection
+      2019 Aug.
+
+PMID- 31460375
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20201001
+IS  - 2470-1343 (Electronic)
+IS  - 2470-1343 (Linking)
+VI  - 4
+IP  - 7
+DP  - 2019 Jul 31
+TI  - Computational Peptidology Assisted by Conceptual Density Functional Theory for
+      the Study of Five New Antifungal Tripeptides.
+PG  - 12555-12560
+LID - 10.1021/acsomega.9b01463 [doi]
+AB  - A well-behaved model chemistry previously validated for the study of the chemical
+      reactivity of peptides was considered for the calculation of the molecular
+      properties and structures of a group of five new antifungal tripeptides, namely
+      (2R)-2-[(2S)-2-[(2S)-2-amino-3-phenylpropanamido]propanamido]-5-[(diaminomethylid
+      ene)amino]pentanoic acid, (2S)-2-[(2S)-2-[(2S)-2-amino-3-phenyl
+      propanamido]propanamido]-3-(4-hydroxyphenyl)propanoic acid,
+      (2S)-2-[(2S)-2-[(2S)-2-amino-3-phenylpropanamido]-3-methylbutanamido]-3-(4-hydrox
+      yphenyl)propanoic acid,
+      (2R)-2-[(2S)-2-[(2S)-2-amino-3-phenylpropanamido]-3-(1H-indol-3-yl)propanamido]-3
+      -sulfanylpropanoic acid, and
+      (2S)-2-[(2S)-2-[(2S)-2-amino-3-phenylpropanamido]-3-(1H-indol-3-yl)propanamido]-3
+      -(4-hydroxyphenyl)propanoic acid, according to their amino acid sequences. A
+      methodology based on conceptual density functional theory was chosen for the
+      determination of the reactivity descriptors. The molecular active sites were
+      associated with the active regions of the molecules that were associated with the
+      nucleophilic, electrophilic, and radical Fukui functions. Additionally, the pK a 
+      values for the different peptides are predicted with great accuracy, which
+      constitutes a useful knowledge for the process of drug design. Finally, the
+      bioactivity scores for the new antifungal peptides are predicted through a
+      homology methodology relating them with the calculated reactivity descriptors.
+FAU - Flores-Holguin, Norma
+AU  - Flores-Holguin N
+AD  - Laboratorio Virtual NANOCOSMOS, Departamento de Medio Ambiente y Energia, Centro 
+      de Investigacion en Materiales Avanzados, Chihuahua 31136, Mexico.
+FAU - Frau, Juan
+AU  - Frau J
+AD  - Departament de Quimica, Universitat de les Illes Balears, Palma de Mallorca
+      07122, Spain.
+FAU - Glossman-Mitnik, Daniel
+AU  - Glossman-Mitnik D
+AD  - Laboratorio Virtual NANOCOSMOS, Departamento de Medio Ambiente y Energia, Centro 
+      de Investigacion en Materiales Avanzados, Chihuahua 31136, Mexico.
+AD  - Departament de Quimica, Universitat de les Illes Balears, Palma de Mallorca
+      07122, Spain.
+LA  - eng
+PT  - Journal Article
+DEP - 20190723
+PL  - United States
+TA  - ACS Omega
+JT  - ACS omega
+JID - 101691658
+PMC - PMC6682088
+COIS- The authors declare no competing financial interest.
+EDAT- 2019/08/29 06:00
+MHDA- 2019/08/29 06:01
+CRDT- 2019/08/29 06:00
+PHST- 2019/05/20 00:00 [received]
+PHST- 2019/07/11 00:00 [accepted]
+PHST- 2019/08/29 06:00 [entrez]
+PHST- 2019/08/29 06:00 [pubmed]
+PHST- 2019/08/29 06:01 [medline]
+AID - 10.1021/acsomega.9b01463 [doi]
+PST - epublish
+SO  - ACS Omega. 2019 Jul 23;4(7):12555-12560. doi: 10.1021/acsomega.9b01463.
+      eCollection 2019 Jul 31.
+
+PMID- 31349587
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200102
+LR  - 20200225
+IS  - 1420-3049 (Electronic)
+IS  - 1420-3049 (Linking)
+VI  - 24
+IP  - 15
+DP  - 2019 Jul 25
+TI  - CDFT-Based Reactivity Descriptors as a Useful MEDT Chemoinformatics Tool for the 
+      Study of the Virotoxin Family of Fungal Peptides.
+LID - E2707 [pii]
+LID - 10.3390/molecules24152707 [doi]
+AB  - Virotoxins are monocyclic peptides formed by at least five different compounds:
+      alaviroidin, viroisin, deoxoviroisin, viroidin and deoxovirodin. These are toxic 
+      peptides singularly found in Amanita virosa mushrooms. Here we perform
+      computational studies on the structural and electronic conformations of these
+      peptides using the MN12SX/Def2TZVP/H2O chemistry model to investigate their
+      chemical reactivity. CDFT-based descriptors (for Conceptual Density Functional
+      Theory) (e.g., Parr functions and Nucleophilicity) are also considered. At the
+      same time, other properties (e.g., pKas) will be determined and used to study
+      virotoxins solubility and to inform decisions about repurposing these agents in
+      medicinal chemistry.
+FAU - Flores-Holguin, Norma
+AU  - Flores-Holguin N
+AUID- ORCID: 0000-0002-4836-233X
+AD  - Laboratorio Virtual NANOCOSMOS, Departamento de Medio Ambiente y Energia, Centro 
+      de Investigacion en Materiales Avanzados, Miguel de Cervantes 120, Complejo
+      Industrial Chihuahua, Chihuahua, Chih 31136, Mexico.
+FAU - Frau, Juan
+AU  - Frau J
+AD  - Departament de Quimica, Universitat de les Illes Balears, 07122 Palma de
+      Mallorca, Spain.
+FAU - Glossman-Mitnik, Daniel
+AU  - Glossman-Mitnik D
+AUID- ORCID: 0000-0002-9583-4256
+AD  - Laboratorio Virtual NANOCOSMOS, Departamento de Medio Ambiente y Energia, Centro 
+      de Investigacion en Materiales Avanzados, Miguel de Cervantes 120, Complejo
+      Industrial Chihuahua, Chihuahua, Chih 31136, Mexico.
+      daniel.glossman@cimav.edu.mx.
+AD  - Departament de Quimica, Universitat de les Illes Balears, 07122 Palma de
+      Mallorca, Spain. daniel.glossman@cimav.edu.mx.
+LA  - eng
+GR  - 219566/2014/Consejo Nacional de Ciencia y Tecnologia
+GR  - CTQ2014-55835-R/Ministerio de Economia, Industria y Competitividad, Gobierno de
+      Espana
+PT  - Journal Article
+DEP - 20190725
+PL  - Switzerland
+TA  - Molecules
+JT  - Molecules (Basel, Switzerland)
+JID - 100964009
+RN  - 0 (Fungal Proteins)
+RN  - 0 (Peptides, Cyclic)
+RN  - 0 (virotoxins)
+SB  - IM
+MH  - *Cheminformatics/methods
+MH  - *Density Functional Theory
+MH  - Fungal Proteins/*chemistry
+MH  - *Models, Chemical
+MH  - Models, Molecular
+MH  - Molecular Structure
+MH  - Peptides, Cyclic/*chemistry
+PMC - PMC6696216
+OTO - NOTNLM
+OT  - chemical reactivity theory
+OT  - chemoinformatics
+OT  - computational peptidology
+OT  - conceptual DFT
+OT  - pKa
+OT  - virotoxins
+EDAT- 2019/07/28 06:00
+MHDA- 2020/01/03 06:00
+CRDT- 2019/07/28 06:00
+PHST- 2019/07/08 00:00 [received]
+PHST- 2019/07/24 00:00 [revised]
+PHST- 2019/07/24 00:00 [accepted]
+PHST- 2019/07/28 06:00 [entrez]
+PHST- 2019/07/28 06:00 [pubmed]
+PHST- 2020/01/03 06:00 [medline]
+AID - molecules24152707 [pii]
+AID - 10.3390/molecules24152707 [doi]
+PST - epublish
+SO  - Molecules. 2019 Jul 25;24(15). pii: molecules24152707. doi:
+      10.3390/molecules24152707.
+
+PMID- 30901820
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190715
+LR  - 20200225
+IS  - 1420-3049 (Electronic)
+IS  - 1420-3049 (Linking)
+VI  - 24
+IP  - 6
+DP  - 2019 Mar 21
+TI  - Chemical Reactivity Theory and Empirical Bioactivity Scores as Computational
+      Peptidology Alternative Tools for the Study of Two Anticancer Peptides of Marine 
+      Origin.
+LID - E1115 [pii]
+LID - 10.3390/molecules24061115 [doi]
+AB  - This work presents an account of the reactivity behavior of the anticancer marine
+      drugs, Soblidotin and Tasidotin, based on the calculation of the global and local
+      descriptors resulting from Chemical Reactivity Theory (CRT), also known as
+      Conceptual DFT, for their consideration as a useful complement to approximations 
+      based on Molecular Docking. The information on the global and local reactivity
+      descriptors of the Soblidotin and Tasidotin molecules, obtained through our
+      proposed methodology, may be used for the design of new pharmaceutical analogs by
+      relying on the chemical interactions between these peptides and their
+      protein-type biological receptors. It can be concluded that the CRT approximation
+      to the global and local chemical reactivity, based on the descriptors, can
+      provide interesting information for the consideration of both molecules as
+      potential therapeutic drugs. This is complemented by a study on Advanced
+      Glycation Endproduct (AGE) inhibition, by comparison with the usual molecular
+      systems considered for the task, as a re-purposing study. Finally, the
+      bioactivity scores for Soblidotin and Tasidotin are predicted through an
+      empirical procedure, based on comparison with molecular structures with
+      well-known pharmacological properties.
+FAU - Frau, Juan
+AU  - Frau J
+AD  - Departament de Quimica, Universitat de les Illes Balears, 07122 Palma de
+      Mallorca, Spain. juan.frau@uib.es.
+FAU - Flores-Holguin, Norma
+AU  - Flores-Holguin N
+AUID- ORCID: 0000-0002-4836-233X
+AD  - Laboratorio Virtual NANOCOSMOS, Departamento de Medio Ambiente y Energia, Centro 
+      de Investigacion en Materiales Avanzados, Miguel de Cervantes 120, Complejo
+      Industrial Chihuahua, Chihuahua, Chih 31136, Mexico. norma.flores@cimav.edu.mx.
+FAU - Glossman-Mitnik, Daniel
+AU  - Glossman-Mitnik D
+AUID- ORCID: 0000-0002-9583-4256
+AD  - Departament de Quimica, Universitat de les Illes Balears, 07122 Palma de
+      Mallorca, Spain. daniel.glossman@cimav.edu.mx.
+AD  - Laboratorio Virtual NANOCOSMOS, Departamento de Medio Ambiente y Energia, Centro 
+      de Investigacion en Materiales Avanzados, Miguel de Cervantes 120, Complejo
+      Industrial Chihuahua, Chihuahua, Chih 31136, Mexico.
+      daniel.glossman@cimav.edu.mx.
+LA  - eng
+GR  - 219566/2014/Consejo Nacional de Ciencia y Tecnologia
+GR  - CTQ2014-55835-R/Ministerio de Economia y Competitividad
+PT  - Journal Article
+DEP - 20190321
+PL  - Switzerland
+TA  - Molecules
+JT  - Molecules (Basel, Switzerland)
+JID - 100964009
+RN  - 0 (Antimicrobial Cationic Peptides)
+RN  - 0 (Antineoplastic Agents)
+RN  - 0 (Glycation End Products, Advanced)
+RN  - 0 (Peptides)
+SB  - IM
+MH  - Antimicrobial Cationic Peptides/chemistry/pharmacology
+MH  - Antineoplastic Agents/*chemistry/pharmacology
+MH  - Aquatic Organisms/*chemistry
+MH  - Glycation End Products, Advanced/chemistry/pharmacology
+MH  - Models, Molecular
+MH  - Molecular Conformation
+MH  - Peptides/*chemistry/pharmacology
+MH  - Structure-Activity Relationship
+PMC - PMC6470772
+OTO - NOTNLM
+OT  - AGEs inhibition ability
+OT  - bioactivity scores
+OT  - chemical reactivity theory
+OT  - pKa
+OT  - soblidotin
+OT  - tasidotin
+EDAT- 2019/03/25 06:00
+MHDA- 2019/07/16 06:00
+CRDT- 2019/03/24 06:00
+PHST- 2019/02/04 00:00 [received]
+PHST- 2019/03/05 00:00 [revised]
+PHST- 2019/03/19 00:00 [accepted]
+PHST- 2019/03/24 06:00 [entrez]
+PHST- 2019/03/25 06:00 [pubmed]
+PHST- 2019/07/16 06:00 [medline]
+AID - molecules24061115 [pii]
+AID - 10.3390/molecules24061115 [doi]
+PST - epublish
+SO  - Molecules. 2019 Mar 21;24(6). pii: molecules24061115. doi:
+      10.3390/molecules24061115.
+
+PMID- 30802465
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200709
+LR  - 20211204
+IS  - 1095-8541 (Electronic)
+IS  - 0022-5193 (Linking)
+VI  - 469
+DP  - 2019 May 21
+TI  - Self-binding peptides: Binding-upon-folding versus folding-upon-binding.
+PG  - 25-34
+LID - S0022-5193(19)30083-9 [pii]
+LID - 10.1016/j.jtbi.2019.02.014 [doi]
+AB  - Self-binding peptide (SBP) represents a novel biomolecular phenomenon spanning
+      between folding and binding. It is a structurally independent, short peptide
+      segment within a monomeric protein and fulfills biological function by
+      dynamically binding to/unbinding from its target domain in the same monomer.
+      Here, four representative SBP systems, including mouse proto-oncogene Vav, human 
+      retinoic acid receptor RARgamma, fruit fly scaffold module INAD and crypto 14-3-3
+      protein Cp14b, are investigated systematically by using atomistic molecular
+      dynamics (MD) simulations and post binding energetics analyses. The native bound 
+      structure, artificial unbound state and isolated peptide segment of SBP moieties 
+      in the four systems were constructed, analyzed and compared in detail. It is
+      revealed that the SBP interaction with their targets is almost a binding
+      phenomenon at single-molecule level, but presence of a polypeptide linker between
+      the SBP and target can promote the binding efficiency since the linker
+      restriction largely increases the probability of SBP-target encounters in a
+      statistical physics point of view. In this respect, unlike classical
+      peptide-mediated interactions where the intrinsically disordered peptides are
+      folded into an ordered structure upon binding to their protein partners
+      (folding-upon-binding), we herein propose SBPs as a new and reversed biological
+      event that is naturally a folding phenomenon but exhibits a typical binding
+      behavior (binding-upon-folding).
+CI  - Copyright (c) 2019 Elsevier Ltd. All rights reserved.
+FAU - Li, Zhongyan
+AU  - Li Z
+AD  - Center for Informational Biology, University of Electronic Science and Technology
+      of China (UESTC), Chengdu 611731, China.
+FAU - Yan, Fugang
+AU  - Yan F
+AD  - Center for Informational Biology, University of Electronic Science and Technology
+      of China (UESTC), Chengdu 611731, China.
+FAU - Miao, Qingqing
+AU  - Miao Q
+AD  - Center for Informational Biology, University of Electronic Science and Technology
+      of China (UESTC), Chengdu 611731, China.
+FAU - Meng, Yang
+AU  - Meng Y
+AD  - Center for Informational Biology, University of Electronic Science and Technology
+      of China (UESTC), Chengdu 611731, China.
+FAU - Wen, Li
+AU  - Wen L
+AD  - Center for Informational Biology, University of Electronic Science and Technology
+      of China (UESTC), Chengdu 611731, China.
+FAU - Jiang, Qianhu
+AU  - Jiang Q
+AD  - Center for Informational Biology, University of Electronic Science and Technology
+      of China (UESTC), Chengdu 611731, China.
+FAU - Zhou, Peng
+AU  - Zhou P
+AD  - Center for Informational Biology, University of Electronic Science and Technology
+      of China (UESTC), Chengdu 611731, China; School of Life Science and Technology,
+      University of Electronic Science and Technology of China (UESTC), Chengdu 610054,
+      China; Center for Information in BioMedicine, University of Electronic Science
+      and Technology of China (UESTC), Chengdu 611731, China. Electronic address:
+      p_zhou@uestc.edu.cn.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20190223
+PL  - England
+TA  - J Theor Biol
+JT  - Journal of theoretical biology
+JID - 0376342
+RN  - 0 (MAS1 protein, human)
+RN  - 0 (Peptides)
+RN  - 0 (Proto-Oncogene Mas)
+SB  - IM
+MH  - Amino Acid Sequence
+MH  - Entropy
+MH  - Molecular Dynamics Simulation
+MH  - Peptides/*chemistry/*metabolism
+MH  - Protein Binding
+MH  - Protein Conformation
+MH  - *Protein Folding
+MH  - Proto-Oncogene Mas
+MH  - Thermodynamics
+OTO - NOTNLM
+OT  - *Biomolecular phenomenon
+OT  - *Computational peptidology
+OT  - *Intrinsic disorder
+OT  - *Molecular recognition
+OT  - *Peptide flexibility
+OT  - *Peptide-domain interaction
+EDAT- 2019/02/26 06:00
+MHDA- 2020/07/10 06:00
+CRDT- 2019/02/26 06:00
+PHST- 2018/08/28 00:00 [received]
+PHST- 2019/02/19 00:00 [revised]
+PHST- 2019/02/22 00:00 [accepted]
+PHST- 2019/02/26 06:00 [pubmed]
+PHST- 2020/07/10 06:00 [medline]
+PHST- 2019/02/26 06:00 [entrez]
+AID - S0022-5193(19)30083-9 [pii]
+AID - 10.1016/j.jtbi.2019.02.014 [doi]
+PST - ppublish
+SO  - J Theor Biol. 2019 May 21;469:25-34. doi: 10.1016/j.jtbi.2019.02.014. Epub 2019
+      Feb 23.
+
+PMID- 30317994
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20191127
+LR  - 20191127
+IS  - 1875-5453 (Electronic)
+IS  - 1389-2002 (Linking)
+VI  - 20
+IP  - 3
+DP  - 2019
+TI  - Machine Learning in Quantitative Protein-peptide Affinity Prediction:
+      Implications for Therapeutic Peptide Design.
+PG  - 170-176
+LID - 10.2174/1389200219666181012151944 [doi]
+AB  - BACKGROUND: Protein-peptide recognition plays an essential role in the
+      orchestration and regulation of cell signaling networks, which is estimated to be
+      responsible for up to 40% of biological interaction events in the human
+      interactome and has recently been recognized as a new and attractive druggable
+      target for drug development and disease intervention. METHODS: We present a
+      systematic review on the application of machine learning techniques in the
+      quantitative modeling and prediction of protein-peptide binding affinity,
+      particularly focusing on its implications for therapeutic peptide design. We also
+      briefly introduce the physical quantities used to characterize protein-peptide
+      affinity and attempt to extend the content of generalized machine learning
+      methods. RESULTS: Existing issues and future perspective on the statistical
+      modeling and regression prediction of protein- peptide binding affinity are
+      discussed. CONCLUSION: There is still a long way to go before establishment of
+      general, reliable and efficient machine leaningbased protein-peptide affinity
+      predictors.
+CI  - Copyright(c) Bentham Science Publishers; For any queries, please email at
+      epub@benthamscience.net.
+FAU - Li, Zhongyan
+AU  - Li Z
+AD  - Center for Informational Biology, School of Life Science and Technology,
+      University of Electronic Science and Technology of China (UESTC), Chengdu 610054,
+      China.
+FAU - Miao, Qingqing
+AU  - Miao Q
+AD  - Center for Informational Biology, School of Life Science and Technology,
+      University of Electronic Science and Technology of China (UESTC), Chengdu 610054,
+      China.
+FAU - Yan, Fugang
+AU  - Yan F
+AD  - Center for Informational Biology, School of Life Science and Technology,
+      University of Electronic Science and Technology of China (UESTC), Chengdu 610054,
+      China.
+FAU - Meng, Yang
+AU  - Meng Y
+AD  - Center for Informational Biology, School of Life Science and Technology,
+      University of Electronic Science and Technology of China (UESTC), Chengdu 610054,
+      China.
+FAU - Zhou, Peng
+AU  - Zhou P
+AD  - Center for Informational Biology, School of Life Science and Technology,
+      University of Electronic Science and Technology of China (UESTC), Chengdu 610054,
+      China.
+AD  - Center for Information in BioMedicine, University of Electronic Science and
+      Technology of China (UESTC), Chengdu 610054, China.
+AD  - Key Laboratory for Neuroinformation of the Ministry of Education, University of
+      Electronic Science and Technology of China (UESTC), Chengdu 610054, China.
+LA  - eng
+PT  - Journal Article
+PT  - Systematic Review
+PL  - Netherlands
+TA  - Curr Drug Metab
+JT  - Current drug metabolism
+JID - 100960533
+RN  - 0 (Peptides)
+RN  - 0 (Proteins)
+SB  - IM
+MH  - Drug Design
+MH  - Humans
+MH  - *Machine Learning
+MH  - Models, Molecular
+MH  - Peptides/*metabolism/therapeutic use
+MH  - Protein Binding
+MH  - Proteins/*metabolism
+OTO - NOTNLM
+OT  - Protein-peptide affinity
+OT  - computational peptidology
+OT  - druggable target
+OT  - machine learning
+OT  - molecular recognition
+OT  - statistical regression
+OT  - therapeutic peptide design.
+EDAT- 2018/10/16 06:00
+MHDA- 2019/11/28 06:00
+CRDT- 2018/10/16 06:00
+PHST- 2017/10/01 00:00 [received]
+PHST- 2017/11/07 00:00 [revised]
+PHST- 2018/08/20 00:00 [accepted]
+PHST- 2018/10/16 06:00 [pubmed]
+PHST- 2019/11/28 06:00 [medline]
+PHST- 2018/10/16 06:00 [entrez]
+AID - CDM-EPUB-93659 [pii]
+AID - 10.2174/1389200219666181012151944 [doi]
+PST - ppublish
+SO  - Curr Drug Metab. 2019;20(3):170-176. doi: 10.2174/1389200219666181012151944.
+
+PMID- 23871047
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140131
+LR  - 20191210
+IS  - 1873-7072 (Electronic)
+IS  - 0308-8146 (Linking)
+VI  - 141
+IP  - 3
+DP  - 2013 Dec 1
+TI  - What are the ideal properties for functional food peptides with antihypertensive 
+      effect? A computational peptidology approach.
+PG  - 2967-73
+LID - 10.1016/j.foodchem.2013.05.140 [doi]
+LID - S0308-8146(13)00746-2 [pii]
+AB  - Peptides with antihypertensive potency have long been attractive to the medical
+      and food communities. However, serving as food additives, rather than therapeutic
+      agents, peptides should have a good taste. In the present study, we explore the
+      intrinsic relationship between the angiotensin I-converting enzyme (ACE)
+      inhibition and bitterness of short peptides in the framework of computational
+      peptidology, attempting to find out the appropriate properties for functional
+      food peptides with satisfactory bioactivities. As might be expected, quantitative
+      structure-activity relationship modeling reveals a significant positive
+      correlation between the ACE inhibition and bitterness of dipeptides, but this
+      correlation is quite modest for tripeptides and, particularly, tetrapeptides.
+      Moreover, quantum mechanics/molecular mechanics analysis of the structural basis 
+      and energetic profile involved in ACE-peptide complexes unravels that peptides of
+      up to 4 amino acids long are sufficient to have efficient binding to ACE, and
+      more additional residues do not bring with substantial enhance in their
+      ACE-binding affinity and, thus, antihypertensive capability. All of above, it is 
+      coming together to suggest that the tripeptides and tetrapeptides could be
+      considered as ideal candidates for seeking potential functional food additives
+      with both high antihypertensive activity and low bitterness.
+CI  - Copyright (c) 2013 Elsevier Ltd. All rights reserved.
+FAU - Zhou, Peng
+AU  - Zhou P
+AD  - Center of Bioinformatics (COBI), School of Life Science and Technology,
+      University of Electronic Science and Technology of China (UESTC), Chengdu 610054,
+      China. p_zhou@uestc.edu.cn
+FAU - Yang, Chao
+AU  - Yang C
+FAU - Ren, Yanrong
+AU  - Ren Y
+FAU - Wang, Congcong
+AU  - Wang C
+FAU - Tian, Feifei
+AU  - Tian F
+LA  - eng
+PT  - Evaluation Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20130607
+PL  - England
+TA  - Food Chem
+JT  - Food chemistry
+JID - 7702639
+RN  - 0 (Angiotensin-Converting Enzyme Inhibitors)
+RN  - 0 (Antihypertensive Agents)
+RN  - 0 (Peptides)
+SB  - IM
+MH  - Amino Acid Sequence
+MH  - Angiotensin-Converting Enzyme Inhibitors/*chemistry
+MH  - Antihypertensive Agents/*chemistry
+MH  - Computational Biology/*methods
+MH  - Functional Food/*analysis
+MH  - Models, Molecular
+MH  - Molecular Sequence Data
+MH  - Peptides/*chemistry
+MH  - Quantitative Structure-Activity Relationship
+OTO - NOTNLM
+OT  - ACE
+OT  - BPPb
+OT  - Bioactivity
+OT  - Computational peptidology
+OT  - Functional food
+OT  - HBP
+OT  - ONIOM
+OT  - PB/SA
+OT  - PCA
+OT  - PLS
+OT  - Peptide
+OT  - Poisson-Boltzmann/surface area
+OT  - QM/MM
+OT  - QSAR
+OT  - RAS
+OT  - SVM
+OT  - angiotensin I-converting enzyme
+OT  - high blood pressure
+OT  - our own N-layered integrated molecular orbital and molecular mechanics
+OT  - partial least squares
+OT  - principal component analysis
+OT  - quantitative structure-activity relationship
+OT  - quantum mechanics/molecular mechanics
+OT  - radykinin potentiating peptide
+OT  - renin-angiotensin system
+OT  - support vector machine
+EDAT- 2013/07/23 06:00
+MHDA- 2014/02/01 06:00
+CRDT- 2013/07/23 06:00
+PHST- 2013/01/05 00:00 [received]
+PHST- 2013/05/16 00:00 [revised]
+PHST- 2013/05/30 00:00 [accepted]
+PHST- 2013/07/23 06:00 [entrez]
+PHST- 2013/07/23 06:00 [pubmed]
+PHST- 2014/02/01 06:00 [medline]
+AID - S0308-8146(13)00746-2 [pii]
+AID - 10.1016/j.foodchem.2013.05.140 [doi]
+PST - ppublish
+SO  - Food Chem. 2013 Dec 1;141(3):2967-73. doi: 10.1016/j.foodchem.2013.05.140. Epub
+      2013 Jun 7.
+
+PMID- 23317161
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20131104
+LR  - 20190823
+IS  - 1875-533X (Electronic)
+IS  - 0929-8673 (Linking)
+VI  - 20
+IP  - 15
+DP  - 2013
+TI  - Computational peptidology: a new and promising approach to therapeutic peptide
+      design.
+PG  - 1985-96
+AB  - The recent focus on protein-protein interaction networks has increasingly been
+      shifted towards the disruption of protein complexes, which either are mediated by
+      the binding of a globular domain in one protein to a short peptide stretch in
+      another, or involve flat, large, and hydrophobic interfaces that classical
+      small-molecule agents are not always ideally suited. Rational design of
+      therapeutic peptides with high affinity targeting such interactions has emerged
+      as a new and promising tool in discovery of potential drug candidates against
+      associated diseases. The design is commonly based on bioinformatics methods or
+      molecular modeling techniques, indirectly exploiting structure-activity
+      relationship at the level of peptide sequence or directly deriving lead entities 
+      from protein complex architecture. Here, a newly rising subfield called
+      computational peptidology that focuses on the use of computational and
+      theoretical approaches to treat peptide-related problems is comprehensively
+      reviewed on the design and discovery of peptide agents targeting protein-protein 
+      interactions. We address a systematic discussion on several representative cases 
+      in which the computational peptidology is successfully employed to develop
+      peptide therapeutics. Besides, some problems and pitfalls accompanied with the
+      current use of computational methods in peptide modeling and design are also
+      present.
+FAU - Zhou, P
+AU  - Zhou P
+AD  - Center of Bioinformatics (COBI), School of Life Science and Technology,
+      University of Electronic Science and Technology of China (UESTC), Chengdu 610054,
+      China. p_zhou@uestc.edu.cn
+FAU - Wang, C
+AU  - Wang C
+FAU - Ren, Y
+AU  - Ren Y
+FAU - Yang, C
+AU  - Yang C
+FAU - Tian, F
+AU  - Tian F
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+PL  - United Arab Emirates
+TA  - Curr Med Chem
+JT  - Current medicinal chemistry
+JID - 9440157
+RN  - 0 (Peptides)
+RN  - 0 (Proteins)
+SB  - IM
+MH  - Animals
+MH  - Computational Biology/methods
+MH  - *Drug Design
+MH  - Humans
+MH  - Molecular Docking Simulation
+MH  - Peptides/*chemistry/metabolism/*pharmacology
+MH  - Protein Interaction Maps/*drug effects
+MH  - Proteins/chemistry/*metabolism
+EDAT- 2013/01/16 06:00
+MHDA- 2013/11/05 06:00
+CRDT- 2013/01/16 06:00
+PHST- 2012/07/10 00:00 [received]
+PHST- 2012/12/31 00:00 [revised]
+PHST- 2013/01/06 00:00 [accepted]
+PHST- 2013/01/16 06:00 [entrez]
+PHST- 2013/01/16 06:00 [pubmed]
+PHST- 2013/11/05 06:00 [medline]
+AID - CMC-EPUB-20130107-3 [pii]
+AID - 10.2174/0929867311320150005 [doi]
+PST - ppublish
+SO  - Curr Med Chem. 2013;20(15):1985-96. doi: 10.2174/0929867311320150005.
+
+PMID- 17077961
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20080219
+LR  - 20111117
+IS  - 1438-2199 (Electronic)
+IS  - 0939-4451 (Linking)
+VI  - 33
+IP  - 4
+DP  - 2007 Nov
+TI  - Peptidology: short amino acid modules in cell biology and immunology.
+PG  - 703-7
+AB  - Short amino acid motifs, either linear sequences or discontinuous amino acid
+      groupings, can interact with specific protein domains, so exerting a central role
+      in cell adhesion, signal transduction, hormone activity, regulation of transcript
+      expression, enzyme activity, and antigen-antibody interaction. Here, we analyze
+      the literature for such critical short amino acid motifs to determine the minimal
+      peptide length involved in biologically important interactions. We report the
+      pentapeptide unit as a common minimal amino acid sequence critically involved in 
+      peptide-protein interaction and immune recognition. The present survey may have
+      implications in defining the dimensional module for peptide-based therapeutical
+      approaches such as the development of novel antibiotics, enzyme
+      inhibitors/activators, mimetic agonists/antagonists of neuropeptides,
+      thrombolitic agents, specific anti-viral agents, etc. In such a therapeutical
+      context, it is of considerable interest that low molecular weight peptides can
+      easily cross biological barriers, are less susceptible to protease attacks, and
+      can be administered at high concentrations. In addition, small peptides are a
+      rational target for strategies aimed at antigen-specific immunotherapeutical
+      intervention. As an example, specific short peptide fragments might be used to
+      elicit antibodies capable of reacting with the full-length proteins containing
+      the peptide fragment's amino acid sequence, so abolishing the risk of
+      cross-reactivity.
+FAU - Lucchese, G
+AU  - Lucchese G
+AD  - Department of Biochemistry and Molecular Biology "Ernesto Quagliariello",
+      University of Bari, Bari, Italy.
+FAU - Stufano, A
+AU  - Stufano A
+FAU - Trost, B
+AU  - Trost B
+FAU - Kusalik, A
+AU  - Kusalik A
+FAU - Kanduc, D
+AU  - Kanduc D
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20061102
+PL  - Austria
+TA  - Amino Acids
+JT  - Amino acids
+JID - 9200312
+RN  - 0 (Amino Acids)
+RN  - 0 (Epitopes)
+RN  - 0 (Oligopeptides)
+RN  - 0 (Peptide Fragments)
+SB  - IM
+MH  - Amino Acid Motifs
+MH  - Amino Acid Sequence
+MH  - Amino Acids/*metabolism
+MH  - Antigen-Antibody Reactions
+MH  - Binding Sites, Antibody
+MH  - *Epitopes
+MH  - Oligopeptides/*chemistry/immunology/*metabolism
+MH  - Peptide Fragments/chemistry/immunology/metabolism
+MH  - Protein Binding
+MH  - Protein Structure, Tertiary
+RF  - 38
+EDAT- 2006/11/02 09:00
+MHDA- 2008/02/20 09:00
+CRDT- 2006/11/02 09:00
+PHST- 2006/09/20 00:00 [received]
+PHST- 2006/10/05 00:00 [accepted]
+PHST- 2006/11/02 09:00 [pubmed]
+PHST- 2008/02/20 09:00 [medline]
+PHST- 2006/11/02 09:00 [entrez]
+AID - 10.1007/s00726-006-0458-z [doi]
+PST - ppublish
+SO  - Amino Acids. 2007 Nov;33(4):703-7. doi: 10.1007/s00726-006-0458-z. Epub 2006 Nov 
+      2.
+
+PMID- 9650416
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19980820
+LR  - 20161020
+IS  - 1210-6313 (Print)
+IS  - 1210-6313 (Linking)
+VI  - 47
+IP  - 1
+DP  - 1998 Mar
+TI  - [Hormonally active peptides].
+PG  - 13-7
+AB  - The article reviews hormonally active peptides, mechanisms of their biosynthesis 
+      and chemical synthesis. Special attention is given to achievements of the Czech
+      school of peptidology. Mechanisms of activity of peptidergic hormones is based
+      mainly on the activation of adenylatcyclase and formation of the "second
+      messenger", cAMP. Other three possible mechanisms are also reviewed. Main groups 
+      of peptidergic hormones (neurohypophyseal hormones, hypothalamic regulatory
+      hormones, gastrointestinal hormones, natriuretic peptides, and many others) are
+      described and their therapeutic and diagnostic significance is summarised. Future
+      prospects of peptidology in the clinical praxis are briefly reviewed.
+FAU - Schreiber, V
+AU  - Schreiber V
+AD  - Laborator pro endokrinologii a metabolizmus III, lekarske fakulty Univerzity
+      Karlovy, Praha.
+LA  - cze
+PT  - English Abstract
+PT  - Journal Article
+PT  - Review
+TT  - Hormonalne aktivni peptidy.
+PL  - Czech Republic
+TA  - Cesk Fysiol
+JT  - Ceskoslovenska fysiologie
+JID - 2984710R
+RN  - 0 (Gastrointestinal Hormones)
+RN  - 0 (Hormones)
+RN  - 0 (Hypothalamic Hormones)
+RN  - 0 (Peptides)
+RN  - 0 (Pituitary Hormones)
+SB  - IM
+CIN - Cesk Fysiol. 1999 Nov;48(4):185-6. PMID: 10748762
+MH  - Gastrointestinal Hormones/physiology
+MH  - Hormones/*physiology
+MH  - Humans
+MH  - Hypothalamic Hormones/physiology
+MH  - Peptides/*physiology
+MH  - Pituitary Hormones/physiology
+RF  - 8
+EDAT- 1998/07/03 02:03
+MHDA- 2000/06/10 09:00
+CRDT- 1998/07/03 02:03
+PHST- 1998/07/03 02:03 [pubmed]
+PHST- 2000/06/10 09:00 [medline]
+PHST- 1998/07/03 02:03 [entrez]
+PST - ppublish
+SO  - Cesk Fysiol. 1998 Mar;47(1):13-7.
