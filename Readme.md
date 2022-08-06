@@ -14,13 +14,16 @@
 ### Id. del producto:00327-31010-83773-AAOEM
 ### Tipo de sistema: Sistema operativo de 64 bits, procesador basado en x64	Compatibilidad del lápiz y la función táctil con 40 puntos 	
 ### Lápiz y entrada táctil:Compatibilidad del lápiz y la función táctil con 40 puntos táctiles
-
-
-
-## Modulos utilizados 
+### versión python/anaconda
+Python 3.9.7
+anaconda Command line client (version 1.9.0)
+## paquetes utilizados 
 ### Biopython  
 ### csv 
 ### collection 
 ### phylo
 ### miningscience 
 ### matplotlib.pyplot 
+### Explicación de la data
+Se uso el txt de peptidology obtenido por las dos funciones realizadas en el modulo miningsciencie.py. Esto para realizar el grafico que nos mostrara los paises donde los articulos tienen mayor incidencia.
+Despues se hizo uso del archivo fasta de las secuecias del gen de las enzimas que intervienen en la ruta metabolica de la gluconeogenesis descargado del NCIB. Con ello se realizo el arbolfilogenetico con los diferentes paquetes.
