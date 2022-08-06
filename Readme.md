@@ -27,3 +27,5 @@ anaconda Command line client (version 1.9.0)
 ### Explicación de la data
 Se uso el txt de peptidology obtenido por las dos funciones realizadas en el modulo miningsciencie.py. Esto para realizar el grafico que nos mostrara los paises donde los articulos tienen mayor incidencia.
 Despues se hizo uso del archivo fasta de las secuecias del gen de las enzimas que intervienen en la ruta metabolica de la gluconeogenesis descargado del NCIB. Con ello se realizo el arbolfilogenetico con los diferentes paquetes.
+### Diagrama 
+![alt text][img/Diagrama del-examen.png]
